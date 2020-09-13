@@ -1,0 +1,6 @@
+﻿  Fa 5.1(v.1).cpp
+  main 5.1(v.1).cpp
+C:\Users\Антон\source\repos\Lab 6.1(v.2)\Fa(5)\Fa 5.1(v.1)\main 5.1(v.1).cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Антон\source\repos\Lab 6.1(v.2)\Fa(5)\Fa 5.1(v.1)\main 5.1(v.1).cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  Fa 5.1(v.1).vcxproj -> C:\Users\Антон\source\repos\Lab 6.1(v.2)\Fa(5)\Debug\Fa 5.1(v.1).exe
